@@ -5,7 +5,7 @@ c = "\n"
 x = " X "
 y = " O "
 Vitoria1 = "Player 1 Won"
-Vitoria2 = "Player 2 Lost"
+Vitoria2 = "Player 2 Won"
 
 partidas = 0
 check = 0
